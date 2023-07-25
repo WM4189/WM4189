@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python scripting, network hardening and Red Team fundamentals.**
 
-- ⚡ Fun fact **I love submission grappling, guitars and kittens.**
+- ⚡ Fun fact **I love Jiu-Jitsu, guitars and kittens.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
