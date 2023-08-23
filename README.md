@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy 👋, I'm Will Mosto</h1>
+<h1 align="center">Hello 👋, I'm Will Mosto</h1>
 <h3 align="center">A passionate Technologist from NYC</h3>
 
 - 🌱 I recently finished Flatiron School's Cybersecurity Engineering program, having already completed their Software Engineering course, and received the CompTIA Security+ certification.
